@@ -1,3 +1,10 @@
+Demo: 
+
+
+https://github.com/phuongtlee/Mid_exam_React/assets/97996632/7e5fec75-2e1d-49ae-901c-fd438f0fdb57
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
